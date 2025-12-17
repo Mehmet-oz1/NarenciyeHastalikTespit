@@ -11,7 +11,6 @@
 - [Kullanılan Teknolojiler](#-kullanılan-teknolojiler)
 - [Kurulum](#-kurulum)
 - [Kullanım](#-kullanım)
-- [Sonuçlar](#-sonuçlar)
 - [İletişim](#-iletişim)
 
 ---
