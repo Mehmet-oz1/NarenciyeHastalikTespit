@@ -1,0 +1,18 @@
+{
+  "Hastalik": { 
+    "aciklama": "Yüklenen görsel hastalıklı görünüyor. Kesin tanı için bir uzmana danışılması tavsiye edilir.",
+    "onlemler": [
+      "Hastalığın türünü kesinleştirmek için ek testler yapın.",
+      "Ağacın genel hijyenine ve beslenmesine dikkat edin."
+    ],
+    "tedavi": "Hastalık türüne göre değişir. Genel olarak, enfekte dalları hızla budayın ve uygun pestisitleri kullanın."
+  },
+  "Saglikli": { 
+    "aciklama": "Yüklediğiniz narenciye görseli sağlıklı görünüyor. İyi bakıma devam edin!",
+    "onlemler": [
+      "Düzenli sulama ve dengeli gübreleme yapın.",
+      "Zararlı ve hastalık belirtileri için düzenli kontrol yapın."
+    ],
+    "tedavi": "Özel bir tedavi gerekmemektedir."
+  }
+}
